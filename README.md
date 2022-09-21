@@ -35,14 +35,6 @@ Gracias por usar este código! Porfavor, si tienes dudas, errores o preguntas so
    
    Si vas a hostear el bot en Windows, te recomiendo descargar ffmpeg de la [página oficial de descarga](https://ffmpeg.org/download.html) o puedes instalar ffmpeg-static con `npm i ffmpeg-static`
 
-## 💛 APÓYANOS
-
-> Puedes apoyarme invitando a uno de **nuestros Bots**
-
-[![Niby 2.0 | El Más Completo Todo-En-Uno](https://cdn.discordapp.com/avatars/919695409813815367/73ae978048bf4ea3c751638372d92a1f.webp?size=256)](https://discord.com/api/oauth2/authorize?client_id=919695409813815367&permissions=8&scope=bot%20applications.commands)
-[![Nythm | La mejor calidad de música](https://cdn.discordapp.com/avatars/890233523464700014/1a81e677c1883e5806c7cac56694b132.webp?size=256)](https://discord.com/api/oauth2/authorize?client_id=890233523464700014&permissions=8&scope=bot%20applications.commands)
-[![Super Tickets | Tickets Avanzados y Completos](https://cdn.discordapp.com/avatars/901877569866051636/5500087dc7d4819f725e5d59aabf3f4c.webp?size=256)](https://discord.com/api/oauth2/authorize?client_id=901877569866051636&permissions=8&scope=bot%20applications.commands)
-
 # Creditos
 
 > Si vas a usar este bot, asegúrate de darme créditos!
