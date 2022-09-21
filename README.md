@@ -33,4 +33,4 @@ Gracias por usar este código! Porfavor, si tienes dudas, errores o preguntas so
 
 # Creditos
 
-> Si vas a usar este bot, asegúrate de darle créditos a <ManxxDev />#5932 y dewstouh#1088!
+> Si vas a usar este bot, asegúrate de darle créditos a ManxxDev y dewstouh!
