@@ -2,10 +2,6 @@
 
 <a href="https://discord.gg/YW8QdwqTMn"><img src="https://discordapp.com/api/guilds/1020715614546964491/widget.json"></a>
  
-¿No quieres o no puedes hostearlo?
-[**Invita la versión oficial del Bot**](https://discord.com/api/oauth2/authorize?client_id=939952555839078401&permissions=8&scope=bot%20applications.commands)
-
-
 # ⚠ IMPORTANTE ⚠
 Gracias por usar este código! Porfavor, si tienes dudas, errores o preguntas sobre como se usa, unete al Discord de Soporte!
 <br>💛 Apoya el desarollo [**donándonos**](https://paypal.me/deustouh) 
