@@ -1,6 +1,6 @@
 # Bot Público y Servidor de Soporte!
 
-<a href="https://discord.gg/MBPsvcphGf"><img src="https://discordapp.com/api/guilds/879397504075063297/widget.png?style=banner2"></a>
+<a href="https://discord.gg/YW8QdwqTMn"><img src="https://discordapp.com/api/guilds/879397504075063297/widget.png?style=banner2"></a>
  
 ¿No quieres o no puedes hostearlo?
 [**Invita la versión oficial del Bot**](https://discord.com/api/oauth2/authorize?client_id=939952555839078401&permissions=8&scope=bot%20applications.commands)
